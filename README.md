@@ -11,7 +11,20 @@ Fazer um visualializador de memória onde acende o led verde para utilização m
 g++ -std=c++11 -pedantic -I include/ src/driver.cpp -o bin/run
 ```
 
+
 **Execução**
 ```shell
 sh run.sh
 ```
+
+##Autores:
+
+Adelino Afonso Fernandes Avelino
+ - [GitHub](https://github.com/aafavelino)
+
+Irene Ginani Costa Pinheiro 
+ - [GitHub](https://github.com/IreneGinani)
+
+ ##Disponível em:
+
+[Projeto SO](https://github.com/aafavelino/Projeto-Memoria-SO)
